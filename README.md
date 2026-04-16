@@ -1,5 +1,9 @@
 # Sleep Timer for macOS
 
+<p align="center">
+  <img src="AppBundle/SleepTimer.iconset/icon_512x512.png" alt="Sleep Timer icon" width="128" height="128">
+</p>
+
 A small macOS menu bar app that lets you put your Mac to sleep either after a countdown or at a chosen time of day.
 
 ## Features
@@ -10,6 +14,13 @@ A small macOS menu bar app that lets you put your Mac to sleep either after a co
 - Live countdown shown in the menu bar while running
 - In-popup About modal and menu bar About action
 - Packaged `.app` bundle with custom icon
+
+## Screenshots
+
+<p align="center">
+  <img src="docs/images/screenshot-1.png" alt="Sleep Timer screenshot 1" width="300">
+  <img src="docs/images/screenshot-2.png" alt="Sleep Timer screenshot 2" width="300">
+</p>
 
 ## Run Locally
 
